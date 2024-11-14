@@ -13,41 +13,41 @@ gsap.registerPlugin(ScrollTrigger)
             
      
 
-         gsap.to(".b1",{
-            scale:0,
-            delay:0,
-            duration:4,
-            x:-250,
-            y:205,
-            ease:'slow(0.7,0.7,true)',
-            scrollTrigger:{
-              trigger:".b1",
-              scroller:"body",
-              // markers:true,
-              start:"top 35%",
-              end:"top 0%",
-              scrub:true
+        //  gsap.to(".b1",{
+        //     scale:0,
+        //     delay:0,
+        //     duration:4,
+        //     x:-250,
+        //     y:205,
+        //     ease:'slow(0.7,0.7,true)',
+        //     scrollTrigger:{
+        //       trigger:".b1",
+        //       scroller:"body",
+        //       // markers:true,
+        //       start:"top 35%",
+        //       end:"top 0%",
+        //       scrub:true
 
-            }
-         })
+        //     }
+        //  })
 
-         gsap.to(".b2",{
-          scale:0,
-          delay:0,
-          duration:3,
-          x:245,
-          y:190,
-          ease:'slow(0.7,0.7,true)',
-          scrollTrigger:{
-            trigger:".b2",
-            scroller:"body",
-            // markers:true,
-            start:"top 35%",
-            end:"top 0%",
-            scrub:true
+      //    gsap.to(".b2",{
+      //     scale:0,
+      //     delay:0,
+      //     duration:3,
+      //     x:245,
+      //     y:190,
+      //     ease:'slow(0.7,0.7,true)',
+      //     scrollTrigger:{
+      //       trigger:".b2",
+      //       scroller:"body",
+      //       // markers:true,
+      //       start:"top 35%",
+      //       end:"top 0%",
+      //       scrub:true
 
-          }
-       })
+      //     }
+      //  })
 
     
        gsap.from(".b3",{

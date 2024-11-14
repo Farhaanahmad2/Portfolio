@@ -2,7 +2,7 @@ import React from 'react'
 import Landing from './landing'
 import Header from './compo_of_landingpage/Header'
 import Quote1 from './quote1'
-import skillscompo from './skills'
+import Skillscompo from './skills'
 import Quote2 from './quote2'
 import Project from './projects'
 import { Certificate } from './certificate'
@@ -45,7 +45,7 @@ const App = () => {
     <Landing />
     <Quote1/>
 
-    <section ref={skillRef} className='overflow-x-hidden' ><skillscompo scrolltoSection={scrolltoSection}/></section>
+    <section ref={skillRef} className='overflow-x-hidden' ><Skillscompo scrolltoSection={scrolltoSection}/></section>
     <Quote2/>
     <section ref={projectRef} ><Project/> </section> 
     <section ref={certificateRef}> <Certificate/></section>

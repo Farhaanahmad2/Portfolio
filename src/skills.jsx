@@ -5,7 +5,7 @@ import gsap from "gsap";
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { useGSAP } from '@gsap/react';
 
-const skillscompo = ({scrolltoSection}) => {
+const Skillscompo = ({scrolltoSection}) => {
 
 
     
@@ -206,4 +206,4 @@ const ShuffleGrid = () => {
   );
 };
 
-export default skillscompo;
+export default Skillscompo;

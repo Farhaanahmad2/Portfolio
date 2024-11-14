@@ -53,21 +53,21 @@ useGSAP(()=>{
   })
 
 
-  gsap.to(".tt2",{
-   delay:1,
-   duration:6,
-   x:-20,
-   ease:'slow(0.7,0.7,true)',
-   scrollTrigger:{
-     trigger:".tt2",
-     scroller:"body",
-     // markers:true,
-     start:"top 60%",
-     end:"top 30%",
-     scrub:true
+//   gsap.to(".tt2",{
+//    delay:1,
+//    duration:6,
+//    x:-20,
+//    ease:'slow(0.7,0.7,true)',
+//    scrollTrigger:{
+//      trigger:".tt2",
+//      scroller:"body",
+//      // markers:true,
+//      start:"top 60%",
+//      end:"top 30%",
+//      scrub:true
 
-   }
-})
+//    }
+// })
     
 
      
