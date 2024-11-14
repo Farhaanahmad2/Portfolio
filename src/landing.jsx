@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react'
 import  './landing.css'
-import Tilttext from './compo_of_landingpage/tilttext'
+import Tilttext from './compo_of_landingpage/Tilttext'
 import Descr from './compo_of_landingpage/Descr'
 import { useGSAP } from '@gsap/react'
 import gsap from 'gsap'
