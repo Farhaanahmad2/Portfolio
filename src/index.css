@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+@font-face {
+  font-family: f1;
+  src: url(./assets/file1.woff2);
+}
+
+@font-face {
+  font-family: f2;
+  src: url(./assets/file2.woff2);
+}
+
+
+@font-face {
+  font-family: f3;
+  src: url(./assets/file3.woff2);
+}
+
+
+@font-face {
+  font-family: f4;
+  src: url(./assets/file4.woff2);
+}
+
+
+@font-face {
+  font-family: f5;
+  src: url(./assets/madefor-text.var.original.woff2);
+}
+
+@font-face {
+  font-family: f6;
+  src: url(./assets/DM-Sans-regular.woff2);
+}
+
+@font-face {
+  font-family: f7;
+  src: url(./assets/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2);
+}
+
+
+@font-face {
+  font-family: f8;
+  src: url(./assets/pxiEyp8kv8JHgFVrJJfecg.woff2);
+}
+
+
+
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+
+html,
+body{
+  height: 100%;
+  width: 100%;
+  /* background-color: black; */
+}
+
+
+
+.page1{
+  position: relative;
+  perspective: 1000px;
+}
+
+.tiltext{
+  
+  width: fit-content;
+}
