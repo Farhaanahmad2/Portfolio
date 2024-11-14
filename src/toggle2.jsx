@@ -229,7 +229,7 @@ const Toggle2 = ({inside,tiltdiv,overlay,cursor,color,projectimg,para,title,git,
 
 
                 </div>
-                <div className="des font-[f3] leading-tight text-md">
+                <div className="des font-[f3] leading-tight text-sm">
                 {para}
                 </div>
                 </div>
