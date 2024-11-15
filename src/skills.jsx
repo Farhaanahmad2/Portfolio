@@ -103,15 +103,15 @@ const shuffle = (array) => {
 const squareData = [
   {
     id: 1,
-    src: "../public/three.svg",
+    src: "../three.svg",
   },
   {
     id: 2,
-    src: "../public/mongo2.svg",
+    src: "../mongo2.svg",
   },
   {
     id: 3,
-    src: "../public/type.svg",
+    src: "../type.svg",
   },
   {
     id: 4,
@@ -119,11 +119,11 @@ const squareData = [
   },
   {
     id: 5,
-    src: "../public/node.svg",
+    src: "../node.svg",
   },
   {
     id: 6,
-    src: "../public/git.svg",
+    src: "../git.svg",
   },
   {
     id: 7,
@@ -147,7 +147,7 @@ const squareData = [
   },
   {
     id: 12,
-    src: "../public/C.svg",
+    src: "../C.svg",
   },
   {
     id: 13,
@@ -163,7 +163,7 @@ const squareData = [
   },
   {
     id: 16,
-    src: "../public/tailwindcss.svg",
+    src: "../tailwindcss.svg",
   },
 ];
 
