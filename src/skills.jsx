@@ -115,7 +115,7 @@ const squareData = [
   },
   {
     id: 4,
-    src: "../public/next.svg",
+    src: "../next.svg",
   },
   {
     id: 5,
