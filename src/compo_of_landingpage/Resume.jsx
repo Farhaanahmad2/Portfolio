@@ -22,7 +22,7 @@ const Resume = () => {
 
   
   const handleDownloadClick = () => {
-    window.open("https://drive.google.com/file/d/17arX5nrQr4rqAkeD-1ELwmw52TID2RQi/view", "_blank");
+    window.open("https://drive.google.com/file/d/12uAm3THRgHDGIC50ZQx0T5JgHbbusRYv/view", "_blank");
   };
 
   return (
