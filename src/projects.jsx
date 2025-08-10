@@ -13,15 +13,14 @@ const Project = () => {
                   view details for each, and simulate a "booking" experience.`
 
 
-  const food_des=`Developed a food ordering platform with real-time cart management and interactive menu updates. Configured the Stripe payment gateway for secure transactions, reducing checkout time by 20%. Created an admin dashboard to track orders, update menus, and analyze revenue trends. Utilized React.js with the Context API for state management and built a responsive UI with Tailwind CSS, improving user retention by 15%. Implemented backend APIs using Node.js, Express.js, and MongoDB to ensure reliable performance and scalability.`
-
+  const food_des=`Developed a food ordering platform with real-time cart management, interactive menus, and an admin dashboard for order tracking, menu updates, and revenue analytics. Integrated Stripe for secure payments, reducing checkout time by 20%. Built with React.js (Context API), Tailwind CSS, Node.js, Express.js, and MongoDB, improving user retention by 15% and ensuring scalability.`
      
   const senseai_des=`Sense AI is a web application built with React and Vite that leverages an advanced
                        API to enable users to search for answers to their questions, similar ChatGPT. 
                        Featuring a user-friendly interface and delivers instant, relevant responses across various topics.`
 
 
-  const car_des=`Developed TravoCar, a responsive car rental platform enabling users to search, filter, and book vehicles by date and pickup location. Designed and orchestrated an admin dashboard to manage vehicles, availability, and bookings. Built the frontend with React.js and Zustand for efficient state management, and implemented REST APIs using Node.js, Express.js, and MongoDB. Integrated ImageKit for optimized image delivery, reducing load time by 35%, and deployed the application to Vercel, ensuring 99.9% uptime.`                       
+  const car_des=`Developed TravoCar, a responsive car rental platform for searching, filtering, and booking vehicles by date and location. Built the frontend with React.js and Zustand, and implemented REST APIs with Node.js, Express.js, and MongoDB. Integrated ImageKit to cut load times by 35% and deployed to Vercel with 99.9% uptime.`                       
                        
 
 
@@ -47,7 +46,7 @@ const hotel_git=`https://github.com/Farhaanahmad2/Wanderlust`
 const senseai_git=`https://github.com/Farhaanahmad2/SenseAI`
 
 
-const game_git=`https://github.com/Farhaanahmad2/Simons_says_Game`
+
 
 
 // const pass_git=`https://github.com/Farhaanahmad2/Portfolio`
